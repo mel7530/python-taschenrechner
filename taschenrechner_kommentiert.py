@@ -3,7 +3,7 @@
 # ============================================================
 
 
-while True:  #while = solange | True = immer wahr → absichtliche Endlosschleife, 
+while True:  #while = solange True = immer wahr: absichtliche Endlosschleife, 
             #läuft bis break kommt
 
     eingabe1 = input("Gib die erste Zahl ein: ")  #input() stoppt das Programm, wartet auf Eingabe, Ergebnis
